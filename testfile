@@ -1,1 +1,6 @@
 This is the First test File.
+
+15.	Now add the file into our local repository. For doing this, use pull command.
+Command – git pull origin master
+16.	Now, if want to change some thing in test file in local repository (change or add some content) and then push into Remote repository, then command – 
+
